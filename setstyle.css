@@ -2,19 +2,34 @@ Songs {
      color: white; 
      background-color : gray; 
      width: 100%; 
+     text-align: center
 } 
 
 heading { 
      color: green; 
      font-size : 40px; 
-     background-color : powderblue; 
-} 
+     background-color : powderblue;
+     text-align: center} 
 
-heading, Title, Artist, Genre, Year{ 
+Title{ 
+	 color: #D1FAFF;
+     display : block; 
+} 
+Artist{ 
+	color: #78F0FE;
+     display : block; 
+} 
+Genre{ 
+	color: #0FE3FC
+     display : block; 
+} 
+Year{ 
+	color: #0A92A3;
      display : block; 
 } 
 
 title { 
      font-size : 25px; 
      font-weight : bold; 
+     text-align: center
 } 
