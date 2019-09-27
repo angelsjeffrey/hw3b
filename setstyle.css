@@ -12,19 +12,22 @@ heading {
      text-align: center} 
 
 Title{ 
-     color: #D1FAFF;
+     color: white;
      display : block; 
 } 
+
 Artist{ 
-	color: #78F0FE;
+	color: #93F7FB;
      display : block; 
 } 
+
 Genre{ 
-	color: #0FE3FC
+	color: #27DAE1
      display : block; 
 } 
+
 Year{ 
-	color: #0A92A3;
+	color: #2870D5;
      display : block; 
 } 
 
