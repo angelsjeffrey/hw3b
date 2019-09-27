@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 <?xml-stylesheet type="text/css" href="setstyle.css"?> 
-<songs> 
+<Songs> 
     <heading>Calvin Harris Setlist</heading> 
-    <song> 
-        <title>This is What You Came For</title> 
-        <artist>artist -: Calvin Harris</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2016</year> 
-    </song>
-    <song> 
-        <title>Drinking from the Bottle</title> 
-        <artist>artist -: Calvin Harris</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2012</year> 
-    </song>  
-    <song> 
-        <title>One Kiss</title> 
-        <artist>artist -: Calvin Harris (with Dua Lipa)</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2018</year> 
-    </song> 
-    <song> 
-        <title>We Found Love (feat. Rihanna)</title> 
-        <artist>artist -: Calvin Harris</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2015</year> 
-    </song> 
+    <Song> 
+        <Title>This is What You Came For</Title> 
+        <Artist>Artist : Calvin Harris</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2016</Year> 
+    </Song>
+    <Song> 
+        <Title>Drinking from the Bottle</Title> 
+        <Artist>Artist : Calvin Harris</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2012</Year> 
+    </Song>  
+    <Song> 
+        <Title>One Kiss</Title> 
+        <Artist>Artist : Calvin Harris (with Dua Lipa)</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2018</Year> 
+    </Song> 
+    <Song> 
+        <Title>We Found Love (feat. Rihanna)</Title> 
+        <Artist>Artist : Calvin Harris</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2015</Year> 
+    </Song> 
 
-    <song> 
-        <title>How Deep Is Your Love</title> 
-        <artist>artist -: Calvin Harris</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2015</year> 
+    <Song> 
+        <Title>How Deep Is Your Love</Title> 
+        <Artist>Artist : Calvin Harris</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2015</Year> 
 
-    <song> 
-        <title>Promises</title> 
-        <artist>artist -: Calvin Harris (with Sam Smith)</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2018</year> 
-    </song> 
-    <song> 
-        <title>Rollin</title> 
-        <artist>artist -: Calvin Harris</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2017</year> 
-    </song> 
-    <song> 
-        <title>Blame</title> 
-        <artist>artist -: Calvin Harris</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2014</year> 
-    </song> 
-    </song> 
-        <song> 
-        <title>Outside</title> 
-        <artist>artist -: Calvin Harris and Ellie Goulding</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2014</year> 
-    </song> 
-    <song> 
-        <title>Summer</title> 
-        <artist>artist -: Calvin Harris</artist> 
-        <genre>genre -: Pop</genre> 
-        <year>year -: 2014</year> 
-    </song> 
-</songs> 
+    <Song> 
+        <Title>Promises</Title> 
+        <Artist>Artist : Calvin Harris (with Sam Smith)</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2018</Year> 
+    </Song> 
+    <Song> 
+        <Title>Rollin</Title> 
+        <Artist>Artist : Calvin Harris</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2017</Year> 
+    </Song> 
+    <Song> 
+        <Title>Blame</Title> 
+        <Artist>Artist : Calvin Harris</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2014</Year> 
+    </Song> 
+    </Song> 
+        <Song> 
+        <Title>Outside</Title> 
+        <Artist>Artist : Calvin Harris and Ellie Goulding</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2014</Year> 
+    </Song> 
+    <Song> 
+        <Title>Summer</Title> 
+        <Artist>Artist : Calvin Harris</Artist> 
+        <Genre>Genre : Pop</Genre> 
+        <Year>Year : 2014</Year> 
+    </Song> 
+</Songs> 
