@@ -1,4 +1,4 @@
-songs { 
+Songs { 
      color: white; 
      background-color : gray; 
      width: 100%; 
@@ -10,7 +10,7 @@ heading {
      background-color : powderblue; 
 } 
 
-heading, title, artist, genre, year{ 
+heading, Title, Artist, Genre, Year{ 
      display : block; 
 } 
 
