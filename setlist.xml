@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="Rule.css"?> 
+<songs> 
+    <heading>Calvin Harris Setlist</heading> 
+    <song> 
+        <title>This is What You Came For</title> 
+        <artist>artist -: Calvin Harris</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2016</year> 
+    </song>
+    <song> 
+        <title>Drinking from the Bottle</title> 
+        <artist>artist -: Calvin Harris</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2012</year> 
+    </song>  
+    <song> 
+        <title>One Kiss</title> 
+        <artist>artist -: Calvin Harris (with Dua Lipa)</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2018</year> 
+    </song> 
+    <song> 
+        <title>We Found Love (feat. Rihanna)</title> 
+        <artist>artist -: Calvin Harris</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2015</year> 
+    </song> 
+
+    <song> 
+        <title>How Deep Is Your Love</title> 
+        <artist>artist -: Calvin Harris</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2015</year> 
+
+    <song> 
+        <title>Promises</title> 
+        <artist>artist -: Calvin Harris (with Sam Smith)</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2018</year> 
+    </song> 
+    <song> 
+        <title>Rollin</title> 
+        <artist>artist -: Calvin Harris</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2017</year> 
+    </song> 
+    <song> 
+        <title>Blame</title> 
+        <artist>artist -: Calvin Harris</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2014</year> 
+    </song> 
+    </song> 
+        <song> 
+        <title>Outside</title> 
+        <artist>artist -: Calvin Harris and Ellie Goulding</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2014</year> 
+    </song> 
+    <song> 
+        <title>Summer</title> 
+        <artist>artist -: Calvin Harris</artist> 
+        <genre>genre -: Pop</genre> 
+        <year>year -: 2014</year> 
+    </song> 
+</songs> 
